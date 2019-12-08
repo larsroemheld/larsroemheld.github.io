@@ -5,7 +5,7 @@ permalink: /deutsch/
 weight: 10
 ---
 
-# Gern auch auf deutsch
+# Gerne auch auf Deutsch
 
 Ich arbeite gern mit Daten, mit Teams, und an konkreten Problemen. Momentan versuche ich mich an regulatorischen Fragen, als Experte für künstliche Intelligenz des hauseigenen [Thinktank im Bundesgesundheitsministerium](https://hih-2025.de/).
 
