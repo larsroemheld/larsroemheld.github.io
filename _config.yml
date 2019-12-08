@@ -3,7 +3,7 @@ title               : Lars Roemheld
 description         : >-                               # >- means to ignore newlines until "url:"
                       I am a data scientist with a special fondness for causality.
                       I currently serve as an expert advisor to the German 
-                      Ministry of Health. Causing Inference.
+                      Ministry of Health.
 
 url                 : ""                    # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
