@@ -1,0 +1,67 @@
+### Site Settings ###
+title               : Lars Roemheld
+description         : >-                               # >- means to ignore newlines until "url:"
+                      "Causing Inference."
+
+url                 : ""                    # base hostname & protocol for your site (e.g. http://example.com)
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+#repository          : larsroemheld/larsroemheld.github.io     # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+remote_theme        : YoussefRaafatNasry/portfolYOU@v2.0.0    # uncomment this if you are using it as a remote theme
+
+### Author Info ###
+author:
+  name              : Lars Roemheld
+  image             : https://hih-2025.de/wp-content/uploads/2019/06/19-05-02-021pauls-900x900.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : vorname.nachname@gmail.com
+# facebook          : your_username
+  github            : larsroemheld
+# gitlab            : your_username
+# instagram         : your_username
+  linkedin          : larsroemheld
+#  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : LarsRoemheld
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Pagination ###
+paginate: 10
+paginate_path: "/articles/page-:num/"
+
+
+### Posts Permalink ###
+permalink: articles/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+plugins:
+  - jemoji
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

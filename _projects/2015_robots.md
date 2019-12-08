@@ -1,0 +1,7 @@
+---
+name: "And1: Skip to My Loop!"
+tools: [robotics, embedded]
+image: http://web.stanford.edu/class/me210/reports/w15/29/uploads/4/8/8/4/48843589/2881298.jpg?398
+description: We built a "basketball"-playing robot, competing against 35 other teams after just under three weeks of construction.
+external_url: http://web.stanford.edu/class/me210/reports/w15/29/
+---
