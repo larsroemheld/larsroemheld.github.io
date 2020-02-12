@@ -11,3 +11,6 @@ This project merges several ideas to allow forecasting future demand in an ecomm
 I developed this side project as a proof of concept, with promising results. The main ideas used are (1) counterfactual inference using prior [elasticity estimates](2017-deepelast/), (2) [Exponential Smoothing](https://eng.uber.com/m4-forecasting-competition/), and (3) [Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110). The implementation is in pytorch; it slightly outperforms a benchmark in lightgbm.
 
 Since this side project merges my (NDA'd) professional work at the time with my private research interests, code and documentation unfortunately are available only on request.
+
+A sample forecast is shown below. Note that stock-out periods are handled gracefully. The plot shows the mean of the forecasted negative binomial distribution.
+![Plot of forecast over stock-out periods](../assets/images/2019_deepcast.png)

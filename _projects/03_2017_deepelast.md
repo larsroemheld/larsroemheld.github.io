@@ -11,3 +11,6 @@ This project is inspired by the literature around [Double/Debiased Machine Learn
 The estimator yielded reasonable estimates, both on simulated data and on real data from major ecommerce platforms. My model did not appear to significantly outperform the technologies I used during my day job at QuantCo, but it was instrumental in furthering our understanding of emerging ideas.
 
 Since this side project merges my (NDA'd) professional work at the time with my private research interests, code and documentation unfortunately are available only on request.
+
+The TensorBoard screenshot below shows the distribution of elasticity over products, shown over training epochs.
+![TensorBoard Screenshot](../assets/images/2018_elast.png)
