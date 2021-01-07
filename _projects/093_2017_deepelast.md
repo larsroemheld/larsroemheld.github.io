@@ -13,4 +13,4 @@ The estimator yielded reasonable estimates, both on simulated data and on real d
 Since this side project merges my (NDA'd) professional work at the time with my private research interests, code and documentation unfortunately are available only on request.
 
 The TensorBoard screenshot below shows the distribution of elasticity over products, shown over training epochs.
-![TensorBoard Screenshot](../assets/images/2018_elast.png)
+![TensorBoard Screenshot](../assets/images/2018_elast_full.png)
