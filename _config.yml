@@ -13,7 +13,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU@v2.0.0    # uncomment this i
 ### Author Info ###
 author:
   name              : Lars Roemheld
-  image             : https://hih-2025.de/wp-content/uploads/2019/06/19-05-02-021pauls-900x900.jpg
+  image             : /assets/images/LarsRoemheld.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : firstname.lastname@gmail.com
