@@ -1,0 +1,7 @@
+/* Add your custom style here */
+@import "style_portfolyou.css";
+
+#attribution { 
+    /* hide ugly attribution at side - it's given on about page */
+    display: none;
+}
