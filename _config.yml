@@ -13,10 +13,13 @@ remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2    # uncomment this i
 
 
 ### Built-In Google Analytics ###
+# LR NOTE: this didn't work as expected!
+# Instead, manually put analytics.html in _includes
+# AND overrode default.html in _layouts!
 analytics:
   enabled: true   # Set true to enable analytics
   google:
-    tracking_id: G-BBXV1Q804N # LR GA tag
+    tracking_id: "G-BBXV1Q804N" # LR GA tag
 
 
 
