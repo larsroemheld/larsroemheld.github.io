@@ -7,9 +7,9 @@ weight: 10
 
 # Gerne auch auf Deutsch
 
-Ich arbeite gern mit Daten, mit Teams, und an konkreten Problemen. Momentan versuche ich mich an regulatorischen Fragen, als Experte für künstliche Intelligenz des hauseigenen [Thinktank im Bundesgesundheitsministerium](https://hih-2025.de/).
+Ich arbeite gern mit Daten und mit Teams, am liebsten an Problemen mit direkt messbarem Erfolg. Momentan leite ich das algorithmische Pricing bei Zalando.
 
-In meinen vorherigen Stationen war ich mit der direkten Umsetzung von "künstlicher Intelligenz" befasst, als leitender Data Scientist bei [QuantCo](https://www.quantco.com/). Dort habe ich mich auf kausale Inferenz mit Methoden des maschinellen Lernens konzentriert, mit Anwendungen von E-Commerce bis zu Krankenversicherungen.
+In meinen vorherigen Stationen war ich mit KI im Gesundheitswesen befasst, als Experte im "health innovation hub" am Bundesministerium für Gesundheit; neben regulatorischen Fragen habe ich mich dort u.a. für die Corona-Warn-App engagiert. Und ich habe als leitender Data Scientist bei QuantCo an kausaler Inferenz mit Methoden des maschinellen Lernens gearbeitet, mit Anwendungen von E-Commerce bis zu Krankenversicherungen.
 
 Ich habe Data Science in Stanford studiert, sowie VWL und Philosophie in Heidelberg und Warschau.
 

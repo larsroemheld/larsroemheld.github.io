@@ -7,9 +7,9 @@ weight: 3
 
 # **About Me**
 
-I am a data scientist, a leader, and a philosopher. I am currently doing a stint in policy, as Director of AI & Data at the German Ministry of Health's [in-house think tank](https://hih-2025.de/en/). Here, I work on topics such as data availability and representativeness, or certification of machine learning-based medical products. Special projects have included the [German Corona-Warn-App](http://corona-warn-app.de/) and behind-the-scenes work on cyber security.
+I am a data scientist, tech economist, and science leader. I am currently leading the pricing science teams at [Zalando](https://jobs.zalando.com/tech/), Europe's biggest e-commerce company. 
 
-Previously, I led data science teams at [QuantCo](https://www.quantco.com/), a German-American startup specializing in causal inference and machine learning. My work spanned from e-commerce to health insurers, and much of it focused on parsing out causal signal from observational data. I am proud to say that all our work delivered soundly measured value in our clients' core business.
+Previously, I did a stint in public policy, as Director of AI & Data at the German Ministry of Health's [in-house think tank](https://de.wikipedia.org/wiki/Health_Innovation_Hub). And I led data science teams at [QuantCo](https://www.quantco.com/), a German-American startup specializing in causal inference and machine learning. My work spanned from e-commerce to health insurers, and much of it focused on parsing out causal signal from observational data.
 
 I hold a masters in data science from Stanford University, and two bachelor degrees in economics and philosophy from Heidelberg University.
 
